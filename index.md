@@ -10,7 +10,7 @@ summary: "Wenn doch nur Jesus hier wäre...! Tatsächlich ist Gott nur ein Gebet
 source: pfarrplaner
 source_id: "116@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Auf dass eure Freude vollkommen sei\"."
-audio: audio.mp3
+audio: auf-dass-eure-freude-vollkommen-sei.mp3
 audio_duration: "17:43"
 legacy_id: 116
 events:
